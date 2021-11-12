@@ -6,7 +6,6 @@ dependencies:
   - r-lubridate
   - r-cowplot
   - r-magick
-  - r-hablar
   - r-scales
   - r-viridis
   - r-ggridges

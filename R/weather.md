@@ -39,19 +39,7 @@
     ## Enabled features: cairo, fontconfig, freetype, heic, lcms, pango, raw, rsvg, webp
     ## Disabled features: fftw, ghostscript, x11
 
-    library(hablar)
-
-    ## 
-    ## Attaching package: 'hablar'
-
-    ## The following object is masked from 'package:dplyr':
-    ## 
-    ##     na_if
-
-    ## The following object is masked from 'package:tibble':
-    ## 
-    ##     num
-
+    #library(hablar)
     library(viridis)
 
     ## Loading required package: viridisLite

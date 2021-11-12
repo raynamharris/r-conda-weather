@@ -2,7 +2,7 @@
 title: "weather"
 author: "Rayna M Harris"
 date: "11/1/2021"
-output: md_document
+output: html_document
 ---
 
 ```{r setup, echo = T, message = T, results = T, warning = T}
@@ -15,7 +15,7 @@ library(tidyverse)
 library(lubridate)
 library(cowplot)
 library(magick)
-library(hablar)
+#library(hablar)
 library(viridis)
 library(scales)
 library(ggridges)
