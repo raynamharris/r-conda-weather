@@ -15,12 +15,9 @@ library(tidyverse)
 library(lubridate)
 library(cowplot)
 library(magick)
-#library(hablar)
 library(viridis)
 library(scales)
 library(ggridges)
-library(magick)
-    
 
 noaa <- image_read("../images/noaa.png")
 photo_file <- image_read( "../images/photo-tahoe.png")

@@ -9,5 +9,6 @@ dependencies:
   - r-scales
   - r-viridis
   - r-ggridges
-  - r-magick
+  - r-knitr
+  - r-rmarkdown
   
