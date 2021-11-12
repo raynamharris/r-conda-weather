@@ -1,13 +1,11 @@
 # r-conda
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raynamharris/r-conda-weather/HEAD
-)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raynamharris/r-conda-weather/master?urlpath=rstudio)
 
 > R and RStudio in repo2docker without waiting for packages to compile!
 
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raynamharris/r-conda-weather/HEAD
-)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/raynamharris/r-conda-weather/master?urlpath=rstudio)
 
 Binder supports using R and RStudio, with libraries pinned to a specific versions.
 
