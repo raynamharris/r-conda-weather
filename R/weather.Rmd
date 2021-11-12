@@ -5,10 +5,10 @@ date: "11/1/2021"
 output: md_document
 ---
 
-```{r setup, echo = F, message = F, results = F, warning = F}
+```{r setup, echo = T, message = T, results = T, warning = T}
 
-knitr::opts_chunk$set(echo = F, message = F, 
-                      results = F, warning = F,
+knitr::opts_chunk$set(echo = T, message = T, 
+                      results = T, warning = T,
                       fig.path = '../images/')
 
 library(tidyverse)

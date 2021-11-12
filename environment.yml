@@ -3,4 +3,12 @@ channels:
 dependencies:
   - r-base=3.6
   - r-tidyverse
+  - r-lubridate
+  - r-cowplot
+  - r-magick
+  - r-hablar
+  - r-scales
+  - r-viridis
+  - r-ggridges
+  - r-magick
   
